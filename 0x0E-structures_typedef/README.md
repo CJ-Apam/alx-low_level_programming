@@ -136,4 +136,3 @@ my_dog = new_dog("Poppy", 3.5, "Bob"); printf("My name is %s, and I am %.1f :) -
 GitHub repository: alx-low_level_programming Directory: 0x0E-structures_typedef File: 5-free_dog.c
 
 Copyright © 2023 ALX, All rights reserved.
-
